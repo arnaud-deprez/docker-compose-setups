@@ -8,4 +8,5 @@ With docker-compose, you should be able to setup a complete environment without 
 
 ##Environments
 
+* [Kubernetes](https://github.com/vyshane/docker-compose-kubernetes) running on docker
 * [Odoo](./odoo/README.md)

@@ -5,6 +5,7 @@ db:
     - POSTGRES_PASSWORD=odoo
 odoo:
   image: odoo
+  #It doesn't support --x-networking option yet
   links:
     - db:db
   ports:

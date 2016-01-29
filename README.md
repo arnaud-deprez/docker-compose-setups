@@ -8,5 +8,6 @@ With docker-compose, you should be able to setup a complete environment without 
 
 ##Environments
 
+* [Kafka](https://github.com/wurstmeister/kafka-docker)
 * [Kubernetes](https://github.com/vyshane/docker-compose-kubernetes) running on docker
 * [Odoo](./odoo/README.md)(formerly known as OpenERP)

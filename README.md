@@ -1,4 +1,4 @@
-#My docker-compose setups
+#Some docker-compose setups
 
 ##Intro
 
